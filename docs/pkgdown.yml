@@ -1,0 +1,8 @@
+pandoc: 3.1.11
+pkgdown: 2.1.0
+pkgdown_sha: ~
+articles: {}
+last_built: 2024-08-01T15:14Z
+urls:
+  reference: https://wejlab.github.io/curatedTBExplorer-docs/reference
+  article: https://wejlab.github.io/curatedTBExplorer-docs/articles
